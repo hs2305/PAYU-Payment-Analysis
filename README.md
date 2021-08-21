@@ -8,6 +8,6 @@ In this analysis we dig out various insights from the dataset like -:
     -Success rate of Payment modes, etc.
 There are four other files in this repoository-:
     -Questions= Contains Questions on various data insights.
-    -Answers  = Contains detail answers of all questions with plots supporting the results.
+    -Analysis  = Contains detail answers of all questions with plots supporting the results.
     -PAYU     = Contains the Python code in which all the insights are obtained
     -Dataset  = Contains Payments Dataset
